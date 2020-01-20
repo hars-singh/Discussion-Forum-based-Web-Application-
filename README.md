@@ -17,26 +17,3 @@ c)admin pannel (High access too all the users data and have control too all the 
 
 # Software requirement.
 XAMPP Server
-
-# Installation steps
-Download the zip file
-
-extract the valuable file using win.zar on your local server.
-
-Put this file inside “c:/xampp/htdocs/”
-
-Database Configuration
-Open localhost/phpmyadmin in any browser
-
-Create Database named “forum”.
-
-Import database db_name.sql.
-
-Open Chrome or Firefox put URL: “http://localhost/file_name/”
-
-Admin Login
-Admin login details:
-
-Login Id : admin
-
-Password : admin
